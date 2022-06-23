@@ -1,6 +1,7 @@
 ---
-title: "Search Result"
-description: "this is meta description"
-layout: "search"
-draft: false
+title: Search Result
+description: this is meta description
+layout: search
+
 ---
+asdfasdfasdfasfasdf
